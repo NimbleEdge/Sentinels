@@ -30,9 +30,14 @@ conda create -n <yourcondaenv>
 conda activate <yourcondaenv>
 pip install requirement.txt
 ```
+### Add your token server to [Config.yml](https://github.com/NimbleEdge/Sentinels/blob/master/config/config.yml)
+
+```yml
+token: <replace your server token here>
+
+```
 
 ### Start with your bot 🦾
-
 ```
 cd Bots
 mkdir <yourbotname>
