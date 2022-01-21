@@ -4,7 +4,9 @@ Code related to any applications / bots serving our discord community.
 
 ## Repo structure
 
-![repostructure](./assets/Repo_Structure.png)
+<p align="center">
+  <img src="./assets/Repo_Structure.png" />
+</p>
 
 ```
 NimbleEdge/Sentianls
