@@ -37,7 +37,7 @@ TOKEN: <replace your server token here>
 
 ```
 
-### Start with your bot 🦾
+### Start making your bot 🦾
 ```
 cd Bots
 mkdir <yourbotname>
