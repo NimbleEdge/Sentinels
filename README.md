@@ -33,7 +33,7 @@ pip install requirement.txt
 ### Add your server token to [Config.yml](https://github.com/NimbleEdge/Sentinels/blob/master/config/config.yml)
 
 ```yml
-token: <replace your server token here>
+TOKEN: <replace your server token here>
 
 ```
 
