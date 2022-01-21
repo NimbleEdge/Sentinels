@@ -10,7 +10,7 @@ Code related to any applications / bots serving our discord community.
 NimbleEdge/Sentianls
 ├── CONTRIBUTING.md           <-- Please go through the contributing guidelines before starting 🤓
 ├── README.md                 <-- You are here 📌
-├── Docs                      <-- Tutorials and walkthroughs 🧐
+├── Docs                      <-- Documentations 📄
 └── Bots                      <-- All the sentinals hang out here 🌝 
 ```
 
