@@ -3,6 +3,9 @@
 Code related to any applications / bots serving our discord community.
 
 ## Repo structure
+
+![repostructure](./assets/Repo_Structure.png)
+
 ```
 NimbleEdge/Sentianls
 ├── CONTRIBUTING.md           <-- Please go through the contributing guidelines before starting 🤓
