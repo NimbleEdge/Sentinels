@@ -1,8 +1,12 @@
 import os
 import random
 import discord
+import yaml
 
-token = os.getenv("DISCORD_TOKEN")
+with open("../config/config.yml", 'r') as cfg:
+    config = yaml.load(cfg, Loader=yaml.FullLoader)
+
+token = os.getenv("config['TOKEN']")
 #guild = os.getenv("DISCORD_GUILD")
 
 our_guild = "NimbleEdge"
