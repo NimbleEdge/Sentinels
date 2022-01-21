@@ -5,7 +5,7 @@ Code related to any applications / bots serving our discord community.
 ## Repo structure
 
 <p align="center">
-  <img src="./assets/Repo_Structure.png" />
+  <img src="./assets/structure.png" />
 </p>
 
 ```
