@@ -1,4 +1,4 @@
-## Sentinals 🤖
+## Sentinels 🤖
 
 Code related to any applications / bots serving our discord community.
 
@@ -9,7 +9,7 @@ Code related to any applications / bots serving our discord community.
 </p>
 
 ```
-NimbleEdge/Sentianls
+NimbleEdge/Sentinels
 ├── CONTRIBUTING.md           <-- Please go through the contributing guidelines before starting 🤓
 ├── README.md                 <-- You are here 📌
 ├── Docs                      <-- Documentations 📄
