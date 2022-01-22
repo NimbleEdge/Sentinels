@@ -45,3 +45,12 @@ cd Bots
 mkdir <yourbotname>
 ```
 
+# Contribute
+
+1. Please go through our [CONTRIBUTING](https://github.com/NimbleEdge/Sentinels/blob/master/CONTRIBUTING.md) guidelines before starting.
+2. Star, fork, and clone the repo.
+3. Do your work.
+4. Push to your fork.
+5. Submit a PR to NimbleEdge/Sentinels
+
+We welcome you to the [Discord](https://nimbleedge.ai/discord) for queries related to the library and contribution in general.
