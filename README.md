@@ -1,8 +1,9 @@
-# Sentinels 🤖
+# 🤖 Sentinels 
+👋 Say hello to Sentinels!
 
-Code related to any applications / bots serving our discord community.
+> This repo hosts all the code related to applications & bots serving our Discord community.
 
-## Repo structure
+## 📌Repo at a glance
 
 <p align="center">
   <img src="./assets/structure.png" />
@@ -12,13 +13,13 @@ Code related to any applications / bots serving our discord community.
 NimbleEdge/Sentinels
 ├── CONTRIBUTING.md           <-- Please go through the contributing guidelines before starting 🤓
 ├── README.md                 <-- You are here 📌
-├── Docs                      <-- Documentations 📄
-└── Bots                      <-- All the sentinals hang out here 🌝 
+├── Docs                      <-- Documentation 📄
+└── Bots                      <-- All the sentinels hang out here 🌝 
 ```
 
-## Getting Started 🦾🤖
+## 🦾🤖 Getting Started 
 
-### Create conda environment 
+### ▶ Create conda environment 
 
 Install conda and create environment
 
@@ -26,31 +27,32 @@ Install conda and create environment
 conda create -n <yourcondaenv>
 ```
 
-### Install depedencies
+### ▶ Install dependencies
 
 ```
 conda activate <yourcondaenv>
 pip install requirement.txt
 ```
-### Add your server token to [Config.yml](https://github.com/NimbleEdge/Sentinels/blob/master/config/config.yml)
+### ▶ Add your server token to [Config.yml](https://github.com/NimbleEdge/Sentinels/blob/master/config/config.yml)
 
 ```yml
 TOKEN: <replace your server token here>
 
 ```
 
-### Start making your bot 🦾
+### ▶ Start coding your bot 
 ```
 cd Bots
 mkdir <yourbotname>
 ```
 
-# Contribute
+# 🎯 Intersted in contributing?
 
-1. Please go through our [CONTRIBUTING](https://github.com/NimbleEdge/Sentinels/blob/master/CONTRIBUTING.md) guidelines before starting.
+1. Please read our [CONTRIBUTING](https://github.com/NimbleEdge/Sentinels/blob/master/CONTRIBUTING.md) guidelines.
 2. Star, fork, and clone the repo.
-3. Do your work.
-4. Push to your fork.
-5. Submit a PR to NimbleEdge/Sentinels
+4. Add your awesome features.
+5. Push changes to your fork.
+6. Submit a PR to NimbleEdge/Sentinels. 🎉
 
-We welcome you to the [Discord](https://nimbleedge.ai/discord) for queries related to the library and contribution in general.
+> 💬 For any queries on contributing, reach out to us on [Discord](https://nimbleedge.ai/discord) <br>
+> 😎 Let's build cool things together!
