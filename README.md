@@ -54,5 +54,5 @@ mkdir <yourbotname>
 5. Push changes to your fork.
 6. Submit a PR to NimbleEdge/Sentinels. 🎉
 
-> 💬 For any queries on contributing, reach out to us on [Discord](https://nimbleedge.ai/discord) 
+> 💬 For any queries on contributing, reach out to us on [Discord](https://nimbleedge.ai/discord) <br>
 > 😎 Let's build cool things together!
