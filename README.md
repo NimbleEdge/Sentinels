@@ -1,5 +1,5 @@
 # 🤖 Sentinels 
-👋 Welcome to sentinels!
+👋 Welcome to Sentinels!
 
 > This repo hosts all the code related to applications & bots serving our Discord community.
 
