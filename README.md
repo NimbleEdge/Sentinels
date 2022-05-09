@@ -31,7 +31,7 @@ conda create -n <yourcondaenv>
 
 ```
 conda activate <yourcondaenv>
-pip install requirement.txt
+pip install -r requirement.txt
 ```
 ### ▶ Add your server token to [Config.yml](https://github.com/NimbleEdge/Sentinels/blob/master/config/config.yml)
 
