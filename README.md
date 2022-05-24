@@ -1,9 +1,10 @@
-# 🤖 Sentinels 
+# 🤖 Sentinels
 👋 Say hello to Sentinels!
 
-> This repo hosts all the code related to applications & bots serving our Discord community.
+> This repo host all the code related to applications & bots serving our Discord community.
 
 ## 📌Repo at a glance
+
 
 <p align="center">
   <img src="./assets/structure.png" />
@@ -14,14 +15,14 @@ NimbleEdge/Sentinels
 ├── CONTRIBUTING.md           <-- Please go through the contributing guidelines before starting 🤓
 ├── README.md                 <-- You are here 📌
 ├── Docs                      <-- Documentation 📄
-└── Bots                      <-- All the sentinels hang out here 🌝 
+└── Bots                      <-- All the sentinels hang out here 🌝
 ```
 
-## 🦾🤖 Getting Started 
+## 🦾🤖 Getting Started
 
-### ▶ Create conda environment 
+### ▶ Create a Conda environment
 
-Install conda and create environment
+Install conda and create an environment
 
 ```
 conda create -n <yourcondaenv>
@@ -40,7 +41,7 @@ TOKEN: <replace your server token here>
 
 ```
 
-### ▶ Start coding your bot 
+### ▶ Start coding your bot
 ```
 cd Bots
 mkdir <yourbotname>
@@ -56,3 +57,5 @@ mkdir <yourbotname>
 
 > 💬 For any queries on contributing, reach out to us on [Discord](https://nimbleedge.ai/discord) <br>
 > 😎 Let's build cool things together!
+
+
